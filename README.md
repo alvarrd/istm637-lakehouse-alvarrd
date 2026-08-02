@@ -1,2 +1,4 @@
-This is a test to pull into Databricks a change made in GitHub
-Using commit and pull
+Name: Rocio Alvarez
+NetId: alvarrd
+catalog name: istm637_alvarrd
+Readme for Databrick Project

@@ -1,0 +1,4 @@
+%python
+name = "Rocio"
+print(f"Welcome, {name}! Glad you're here.")
+print("This notebook is ready to run.")
